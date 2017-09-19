@@ -2,5 +2,7 @@
 
 int main()
 {
-	std::cout<<"test";
+	int x=0;
+	
+	std::cout<<x;
 }
