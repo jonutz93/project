@@ -4,5 +4,5 @@ int main()
 {
 	int x=0;
 	
-	std::cout<<x;
+	std::cout<<"hello 3 COMMIT";
 }
